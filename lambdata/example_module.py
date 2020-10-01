@@ -5,7 +5,5 @@ import numpy as np
 
 FAVORITE_ANIMALS = ['cat', 'dog', 'sloth', 'albino giraffe', 'reversed zebra']
 
-def df_cleaner(df):
-  """Cleans DF"""
-  # TODO-implement df clean
-
+def increment(x):
+  return x + 1
